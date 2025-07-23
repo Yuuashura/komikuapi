@@ -48,21 +48,32 @@ const genreRekomendasi = require("./routes/genre-rekomendasi");
 // Root route
 app.get("/", (req, res) => {
   res.json({
-    message: "Welcome to Komiku Rest API",
+    message: "Wellcome To My API",
     version: "1.0.0",
+    author: "Ⓨⓤⓤⓐⓢⓗⓤⓡⓐ",
+    github: "https://github.com/Yuuashura",
     endpoints: [
       "/rekomendasi",
       "/trending",
       "/terbaru-2",
-      "/terbaru",
       "/pustaka",
       "/berwarna",
       "/komik-populer",
       "/detail-komik/:slug",
       "/baca-chapter/:slug/:chapter",
       "/search?q=keyword",
-      "/genre-detail/:slug",
+      "/genre/:slug",
+      "/genre-rekomendasi/:slug",
+      "/genre-all",
     ],
+    example : [
+      "/detail-komik/one-piece",
+      "/baca-chapter/one-piece/1",
+      "/search?q=one piece",
+      "/genre/action",
+      "/genre-rekomendasi/one-piece",
+      "/genre-all"
+    ]
   });
 });
 
