@@ -2,14 +2,12 @@
 
 ## GitAds Sponsored
 
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=vernsg/komiku-rest-api@github)](https://gitads.dev/v1/ad-track?source=vernsg/komiku-rest-api@github)
-
 <p align="center">
-  <a href="https://github.com/VernSG">
-    <img src="https://avatars.githubusercontent.com/u/68459009?v=4" alt="Logo" width="150" >
+  <a href="https://github.com/Yuuashura">
+    <img src="github.com/Yuuashura/assets/blob/main/hutau.gif?raw=true" alt="Logo" width="150" >
   </a>
 
-  <h3 align="center">Mangaverse-API</h3>
+  <h3 align="center">Yuuashura API</h3>
 
   <p align="center">
     <samp>A RESTful API for scraping and serving manga/manhwa/manhua data from <a href="http://komiku.id/">Komiku.id.</a></samp>
