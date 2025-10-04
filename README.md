@@ -1,10 +1,6 @@
-<!-- GitAds-Verify: WBSRH26RS33MFZHKP3H9ZYH6UFSEW5LS -->
-
-## GitAds Sponsored
-
 <p align="center">
   <a href="https://github.com/Yuuashura">
-    <img src="github.com/Yuuashura/assets/blob/main/hutau.gif?raw=true" alt="Logo" width="150" >
+    <img src="https://github.com/Yuuashura/assets/blob/main/hutau.gif?raw=true" alt="Logo" width="150" >
   </a>
 
   <h3 align="center">Yuuashura API</h3>
